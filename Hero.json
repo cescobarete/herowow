@@ -6,5 +6,6 @@
     "city" : "Detroit",
     "State" : "MI",
     "Zip" : "67890",
-    "favoriteHobby" : "Defeating the joker as batmans sidekick"
+    "favoriteHobby" : "Defeating the joker as batmans sidekick",
+    "seatLocation" : ""
 }
